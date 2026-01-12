@@ -1,0 +1,20 @@
+# Core numerical & data handling
+numpy==1.26.4
+pandas==2.2.2
+
+# Visualization
+matplotlib==3.8.4
+seaborn==0.13.2
+
+# Machine Learning
+scikit-learn==1.5.1
+
+# Deep Learning (for handwritten characters)
+tensorflow==2.16.1
+
+# Image processing
+opencv-python==4.10.0.84
+
+# Jupyter support (recommended)
+jupyterlab==4.2.4
+ipykernel==6.29.5
